@@ -9,10 +9,10 @@ Cross-Platform Compatibility: Use the Currency Converter on Windows, macOS, and 
 
 # Setup Instructions
 1. Open Terminal
-2. git clone 
-3. cd anushka-currency-converter
+2. git clone https://github.com/anushhhh/currency-converter.git
+3. cd currency-converter
 4. npm install
-5. npm start to run the application
+5. "npm start" to run the application
 
 <img width="960" alt="image" src="https://github.com/anushhhh/currency-converter/assets/92623929/da7b788f-f5af-4d31-876d-8aa056dcefc8">
 <img width="960" alt="image" src="https://github.com/anushhhh/currency-converter/assets/92623929/849adf93-6290-422d-bcd5-ff17ccdcabc6">
