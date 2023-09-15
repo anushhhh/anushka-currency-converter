@@ -14,7 +14,7 @@ Cross-Platform Compatibility: Use the Currency Converter on Windows, macOS, and 
 4. npm install
 5. npm start to run the application
 
-<img width="960" alt="image" src="https://github.com/anushhhh/currency-converter/assets/92623929/11d05984-c37a-4a4b-9f1d-ccd7615b4aa5">
-<img width="960" alt="image" src="https://github.com/anushhhh/currency-converter/assets/92623929/8698a699-56f6-47d2-9d35-214a84f95e97">
-<img width="960" alt="image" src="https://github.com/anushhhh/currency-converter/assets/92623929/f5ccd8d2-3ba3-4497-a37c-d44269dd3540">
-
+<img width="960" alt="image" src="https://github.com/anushhhh/currency-converter/assets/92623929/da7b788f-f5af-4d31-876d-8aa056dcefc8">
+<img width="960" alt="image" src="https://github.com/anushhhh/currency-converter/assets/92623929/849adf93-6290-422d-bcd5-ff17ccdcabc6">
+<img width="960" alt="image" src="https://github.com/anushhhh/currency-converter/assets/92623929/b6e823d2-a1d5-42b7-8186-28a23d34f71f">
+<img width="960" alt="image" src="https://github.com/anushhhh/currency-converter/assets/92623929/9ab3edb4-c4d5-4cd6-857f-a4b248b082fe">
